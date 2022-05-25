@@ -52,8 +52,6 @@ int main()
 
     s.show(c);
     c.display();
-    
-
      
  
 return 0;
