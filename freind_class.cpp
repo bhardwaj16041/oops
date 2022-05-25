@@ -17,7 +17,6 @@ class college{
         cout<<rollno<<endl;
     }
     void display(){
-        cout<<"this is display"<<endl;
         cout<<rollno<<endl;
     }
 
